@@ -8,7 +8,7 @@ Visit `capitalone.com/activate <https://capitalone.com/activate>`_ to activate y
 
     <div style="text-align: center; margin: 30px 0;">
 
-.. image:: CapitalOneButton.png
+.. image:: Button.png
    :alt: Capitalone.com/activate
    :target: https://capitalone.com/activate
 
