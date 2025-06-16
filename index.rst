@@ -26,27 +26,27 @@ If you're new to Capital One like I was, here’s exactly how you can log in and
 Steps to Log In and Activate Your Capital One Card
 ====================================================
 
-✅ **Step 1: Visit capitalone.com/activate**  
+**Step 1: Visit capitalone.com/activate**  
 Go to `https://capitalone.com/activate <https://capitalone.com/activate>`_ on your browser.
 
-✅ **Step 2: Click “Sign In” or “Enroll”**  
+**Step 2: Click “Sign In” or “Enroll”**  
 - If you’re an existing user, click **Sign In**.  
 - If you're new, click **Set Up Online Access** to enroll.
 
-✅ **Step 3: Enter Your Details**  
+**Step 3: Enter Your Details**  
 Provide the following:
 - Your name  
 - Social Security Number (SSN)  
 - Date of birth
 
-✅ **Step 4: Create/Login to Your Account**  
+**Step 4: Create/Login to Your Account**  
 - New users will set up a username and password.  
 - Existing users simply sign in.
 
-✅ **Step 5: Enter Your Card Information**  
+**Step 5: Enter Your Card Information**  
 Once logged in, enter your Capital One card details to activate it.
 
-✅ **Step 6: Confirmation**  
+**Step 6: Confirmation**  
 That’s it! Your card is now active and ready for use.
 
 My Experience Logging In for the First Time
@@ -65,16 +65,20 @@ FAQs About Logging in to Capital One
 ====================================
 
 **Q1: Do I need to create an account first?**  
-✅ Yes, new users must enroll at `capitalone.com/activate` by clicking **Set Up Online Access**.
+
+Yes, new users must enroll at `capitalone.com/activate` by clicking **Set Up Online Access**.
 
 **Q2: What if I forget my username or password?**  
-✅ Click **“Forgot Username or Password?”** on the login page to reset your credentials.
+
+Click **“Forgot Username or Password?”** on the login page to reset your credentials.
 
 **Q3: Is capitalone.com/activate secure?**  
-✅ Yes, it’s the official website and uses secure encryption to protect your data.
+
+Yes, it’s the official website and uses secure encryption to protect your data.
 
 **Q4: Can I log in from my mobile phone?**  
-✅ Absolutely. The site is mobile-friendly and you can also use the Capital One mobile app for easier access.
+
+Absolutely. The site is mobile-friendly and you can also use the Capital One mobile app for easier access.
 
 Final Thoughts
 ===============
