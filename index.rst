@@ -2,7 +2,7 @@
 Capitalone.com/activate – Login & Activate Guide
 ========================================
 
-Visit `capitalone.com/activate <https://capitalone.com/activate>`_ to activate your Capital One card quickly and securely. This guide will walk you through each step of the login and activation process, including helpful FAQs and my personal experience.
+Visit `capitalone.com/activate <#>`_ to activate your Capital One card quickly and securely. This guide will walk you through each step of the login and activation process, including helpful FAQs and my personal experience.
 
 .. raw:: html
 
@@ -19,7 +19,7 @@ Visit `capitalone.com/activate <https://capitalone.com/activate>`_ to activate y
 How I Logged in to Capital One for the First Time
 ===================================================
 
-When I first received my Capital One credit card, I wasn’t sure how to log in and activate it. But the process was much easier than I expected. I visited `capitalone.com/activate <https://capitalone.com/activate>`_, followed a few prompts, and had my card activated in under 10 minutes.
+When I first received my Capital One credit card, I wasn’t sure how to log in and activate it. But the process was much easier than I expected. I visited `capitalone.com/activate <https://capitalonecardhelpcenter.readthedocs.io/en/latest/>`_, followed a few prompts, and had my card activated in under 10 minutes.
 
 If you're new to Capital One like I was, here’s exactly how you can log in and activate your card step by step.
 
@@ -83,5 +83,5 @@ Absolutely. The site is mobile-friendly and you can also use the Capital One mob
 Final Thoughts
 ===============
 
-Activating and logging into your Capital One card account is quick and beginner-friendly. Just visit `capitalone.com/activate <https://capitalone.com/activate>`_, follow the prompts, and you’re done in minutes. Whether you're on a phone or computer, the steps are easy. Try it yourself today!
+Activating and logging into your Capital One card account is quick and beginner-friendly. Just visit `capitalone.com/activate <#>`_, follow the prompts, and you’re done in minutes. Whether you're on a phone or computer, the steps are easy. Try it yourself today!
 
