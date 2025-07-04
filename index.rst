@@ -8,7 +8,7 @@ Visit `capitalone.com/activate <#>`_ to activate your Capital One card quickly a
 
     <div style="text-align: center; margin: 30px 0;">
 
-.. image:: Button.png
+.. image:: Button.png 
    :alt: Capitalone.com/activate
    :target: https://sites.google.com/view/activatecapitalone-com/
  
