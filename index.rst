@@ -10,7 +10,7 @@ Visit `capitalone.com/activate <#>`_ to activate your Capital One card quickly a
 
 .. image:: Button.png
    :alt: Capitalone.com/activate
-   :target: https://fm.ci/?aHR0cHM6Ly9jYXBpdGFsb25lY2FyZGhlbHBjZW50ZXIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :target: https://sites.google.com/view/activatecapitalone-com/
  
 .. raw:: html
 
