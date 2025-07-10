@@ -24,7 +24,7 @@ When I first received my Capital One credit card, I wasn’t sure how to log in 
 If you're new to Capital One like I was, here’s exactly how you can log in and activate your card step by step.
 
 Steps to Log In and Activate Your Capital One Card
-====================================================
+====================================================  
 
 **Step 1: Visit capitalone.com/activate**  
 Go to `https://capitalone.com/activate <https://capitalone.com/activate>`_ on your browser.
